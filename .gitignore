@@ -8,6 +8,7 @@
 /captures
 .externalNativeBuild
 
+
 ### Java template
 # Compiled class file
 *.class
@@ -81,3 +82,9 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+/.idea/
+/.idea/copyright/
+/.idea/compiler.xml
+/.idea/runConfigurations.xml
+/.idea/misc.xml
+/.idea/modules.xml
